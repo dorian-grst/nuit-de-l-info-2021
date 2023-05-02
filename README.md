@@ -1,6 +1,6 @@
 ## La nuit de l'info 📂
 
-> Partie HTML/CSS/JS
+> HTML/CSS/JS Section
 
-Durant l'événement : "La nuit de l'info" 2021, j'ai codé ce site pour "Les Sauveteurs du Dunkerquois" avec l'aide de deux autres personnes.
-Le site dispose d'un mode sombre et d'une possibilité de changement de langue.
+During the "La nuit de l'info" event 2021, I coded this website for "Les Sauveteurs du Dunkerquois" with the help of two other people.
+The site has a dark mode and a language switching feature.
